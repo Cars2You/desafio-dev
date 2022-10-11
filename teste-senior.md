@@ -10,7 +10,7 @@ Estamos felizes de ter você no nosso processo seletivo para Equipe de Desenvolv
 Neste processo, vamos analisar seu conhecimento sobre APIs Rest, Javascript (e/ou Typescript) e Git!
 
 ### Como enviar o desafio
-Crie um repositório público no [Github](https://github.com/). Assim que finalizar seu desafio, envie o link do repositório, junto com o arquivo .sql para o endereço de email `talentos@cars2you.com.br`
+Crie um repositório público no [Github](https://github.com/). Assim que finalizar seu desafio, envie o link do repositório para sua recrutadora.
 
 Lembre-se que estamos analisando seu conhecimento Git também, então utilize [Commits Semânticos](https://blog.geekhunter.com.br/o-que-e-commit-e-como-usar-commits-semanticos/) no processo de desenvolvimento do desafio.
 
