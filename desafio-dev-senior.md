@@ -21,7 +21,7 @@ ex:
 
 ### Dúvidas sobre o desafio
 
-Caso tenha alguma dúvida sobre o desafio, [abra uma issue](https://github.com/cars2you/desafio-devsenior/issues) neste repositório e alguém da nossa equipe vai te ajudar! Utilizamos as issues para que cada dúvida possa servir de ajuda para o próximo! 
+Caso tenha alguma dúvida sobre o desafio, [abra uma issue](https://github.com/Cars2You/desafio-dev/issues) neste repositório e alguém da nossa equipe vai te ajudar! Utilizamos as issues para que cada dúvida possa servir de ajuda para o próximo! 
 
 
 #### A seguir, está seu desafio, boa sorte! 
